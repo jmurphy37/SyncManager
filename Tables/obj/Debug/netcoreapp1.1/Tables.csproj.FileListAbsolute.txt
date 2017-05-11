@@ -1,4 +1,0 @@
-D:\Projects\SyncManager\Tables\bin\Debug\netcoreapp1.1\Tables.deps.json
-D:\Projects\SyncManager\Tables\bin\Debug\netcoreapp1.1\Tables.dll
-D:\Projects\SyncManager\Tables\obj\Debug\netcoreapp1.1\Tables.csprojResolveAssemblyReference.cache
-D:\Projects\SyncManager\Tables\obj\Debug\netcoreapp1.1\Tables.AssemblyInfo.cs
